@@ -127,6 +127,7 @@ ini.addValueToGroup('connect', 'pt', '#lightgreen$name#default se conecto de #li
 ini.addValueToGroup('connect', 'es', '#lightgreen$name#default se ha conectado desde #lightgreen$location#default.')
 ini.addValueToGroup('connect', 'nl', '#lightgreen$name#default komt uit #lightgreen$location#default.')
 ini.addValueToGroup('connect', 'fi', '#lightgreen$name#default on liittynyt peliin maasta #lightgreen$location#default.')
+ini.addValueToGroup('connect', 'ru', '#lightgreen$name#default подключился из #lightgreen$location#default.')
 
 ini.write()
 
